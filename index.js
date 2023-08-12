@@ -1,7 +1,3 @@
-// github.com/webFardin
-// twitter.com/webFardin0
-// instagram.com/webFardin
-// t.me/webFardin
 
 "use strict";
 
@@ -89,12 +85,12 @@ let musics = [
       "https://drive.google.com/uc?export=download&id=17Au5vndZ9u06EtjQsVT6oYNCBfnqVbEr"
   },
   {
-    trackName: "The Catalyst",
-    artist: "Linkin Park",
-    album: "A Thousand Sun",
-    coverImage: "https://i.postimg.cc/FK3jRqxM/image.jpg",
+    trackName: "កំរ",
+    artist: "Mut Phearin x YCN Tomie",
+    album: "Original",
+    coverImage: "https://cdn.dribbble.com/users/3547568/screenshots/14395014/music_jpeg_4x.jpg",
     audioSource:
-      "https://cdns-preview-8.dzcdn.net/stream/c-8930ac6a4a087666b651b8aad5cd4a26-5.mp3"
+      "https://drive.google.com/uc?export=download&id=1wMlyM7m1KsCfcVEtdeAG9DXKSlK9ceQa"
   },
   {
     trackName: "Lali",
